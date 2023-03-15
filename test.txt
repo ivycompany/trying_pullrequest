@@ -10,3 +10,10 @@ trying merge conflicts
 vasu
 deepu
 shanu
+8-2=6
+6-3=3
+ice cream
+chocolate
+mango 
+europe
+usa
