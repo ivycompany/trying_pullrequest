@@ -7,3 +7,10 @@ trying merge conflicts
 3+5=8
 5-2=3
 9-5=4
+8-2=6
+6-3=3
+ice cream
+chocolate
+mango 
+europe
+usa
